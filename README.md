@@ -1,6 +1,10 @@
 # Image-Caption-Generator
 Image Caption generator using CNN and LSTM
 
+![image_caption_1](https://github.com/user-attachments/assets/91bfe7bd-c8de-40b4-9b7a-6b40b8e73724)
+![image_caption_2](https://github.com/user-attachments/assets/d7e1251b-819e-4f34-ab88-d312e6a301b8)
+
+
 ## Project Overview
 
 This project is an Image Caption Generator that combines Computer Vision (CNN) and Natural Language Processing (LSTM) to generate meaningful captions for images. We used a pretrained VGG16 model to extract image features and an LSTM-based language model to generate captions.
